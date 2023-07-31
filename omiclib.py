@@ -12,7 +12,6 @@ from skimage.measure import profile_line
 from qtrangeslider import QRangeSlider
 from time import time
 import scipy.fftpack as sfft
-import pandas as pd
 import numpy as np
 import math
 import access2thematrix
